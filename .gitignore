@@ -1,0 +1,38 @@
+# Virtual Environment
+.env/
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+data/
+datasets/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tableau files
+*.twb
+*.twbx
+*.hyper
+
+# Environment variables
+.env
+
+# Logs
+*.log
