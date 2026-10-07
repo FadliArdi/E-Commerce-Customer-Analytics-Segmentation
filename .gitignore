@@ -12,8 +12,6 @@ __pycache__/
 *.xlsx
 *.xls
 *.json
-data/
-datasets/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
